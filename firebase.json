@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"kawai-box","appId":"1:835457182818:android:2fd44906eb50397188353b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"kawai-box","configurations":{"android":"1:835457182818:android:2fd44906eb50397188353b","ios":"1:835457182818:ios:e3ec8f701f72068a88353b"}}}}}}

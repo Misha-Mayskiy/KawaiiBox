@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835457182818",
+    "project_id": "kawai-box",
+    "storage_bucket": "kawai-box.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835457182818:android:2fd44906eb50397188353b",
+        "android_client_info": {
+          "package_name": "com.onichan.kawaibox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl95sqXFTJTS3UALyrtN_Nlh3Zx-WTHVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
